@@ -1,4 +1,4 @@
-# literally just an echo server of 36 lines
+# literally just an echo server
 
 ### run 💃
 
